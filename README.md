@@ -1,5 +1,5 @@
 # BlackNet
-A MEME-COIN that creates VALUE through proof - of - engagement.
+A token that forwards real valid news and creates VALUE through proof - of - engagement.
 
 ## Structure
 - `contracts/`: Smart contracts (Solidity)
